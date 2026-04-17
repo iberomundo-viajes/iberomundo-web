@@ -1,0 +1,17 @@
+{
+  "name": "iberomundo-viajes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@duffel/api": "^3.0.0",
+    "stripe": "^14.0.0"
+  }
+}
